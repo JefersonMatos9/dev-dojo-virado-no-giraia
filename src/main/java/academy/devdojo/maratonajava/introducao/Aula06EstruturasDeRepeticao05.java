@@ -9,7 +9,7 @@ public class Aula06EstruturasDeRepeticao05 {
             if (valorParcela < 1000) {
                 continue;
             }
-            System.out.println("Parcela " + i +  " Valor " + valorParcela);
+            System.out.println("Parcela " + i + " Valor " + valorParcela);
         }
     }
 }
